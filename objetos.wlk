@@ -1,3 +1,22 @@
+//colores
+object rojo {
+ method fuerte() = true
+}
+
+object verde{
+ method fuerte() = true
+}
+
+object celeste {
+ method fuerte() = false
+}
+
+object pardo {
+ method fuerte() = false
+}
+
+
+
 //materiales
 
 object cobre {
